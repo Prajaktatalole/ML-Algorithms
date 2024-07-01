@@ -1,0 +1,90 @@
+Data Science :
+Is an interdisciplinary field which uses statistics ,maths,algorithms to extract information
+from structured and unstructured data and uses this information for business descision.
+ 
+DS ====> maths ,stats ,Programming ,Domain knowlwdge.
+
+Structured data ===> Tabular format ====>df
+Unstructured data ====>File ,Website ,notebook,Text ,Audio ,Video ,Image
+
+Test Audio==>NLP
+Image ,Video===>computer vision.
+
+
+Life cycle :
+Credit card Fraud Transaction Detection
+1.Business undesrstanding 
+2.Data Gathering
+collect transaction data :
+transaction loc ,trans time ,amount ,reason .
+3.Data Preparation 
+4.Modeling ====ML step
+we will feed the cleaned data to ML algorithm 
+It will learn some patterns and dff btween fraud and Genuine
+transaction.
+So in future ML alg will predict whether the trans is Fraud or Genuine.
+5.Evaluation of model.
+6.Deployment
+
+Covid 19 Test Example .
+
+Machine learning -study of algorithms that can learn and imporve
+from experience using data.
+
+
+Machine learning is a subset of AI, which enables the machine to 
+automatically learn from data, improve performance
+ from past experiences, and make predictions
+x1  x2  y
+10   1 21
+20   2  42
+30  3   63
+40   4  84
+50   5  ---
+60   6  ---
+
+Area of circle. formula
+So formula is predefined called as Rule Based system.
+
+bUt when we generate some formula from data is called as ML.
+
+eg.prediction of prize of house.
+area no of rooms locality  Prize.
+
+Diff Data Types in ML :
+1.Numerical Data /Quantitative data----> cont ,discrete
+2.Categorical /Qualititative data.---->nominal ,ordinal.
+
+
+Give Example : height ,wt ,prize ,area ,volume ---> cont data
+               no of students ,no of days yrs of expe ,no of rooms ===> discrete
+               gender ,color ,Blood group ,dept ,subjects ==>Nominal
+               Grades ,Level in Company ,middle class lower class ===> Ordinal
+
+
+Types of ML :
+Supervised======> Regression ,classification
+
+Reg ===> Target var is continuoues eg. house prize ,stock prize
+                                       temp pred .
+Classification ===>Target var is categorical eg ,spam ,ham 
+                                                  Fraud Transaction
+                                                  covid positive/negative
+
+
+Unsupervised 
+Semisupervised
+Reinforcement.
+
+===========================================================================
+
+EDA and Preprocessing :
+Exploratory Data Analysis :
+Step-I
+Understanding the data,dtype,visualization ,missing values ,skewed ,
+kurtosis ,outliers ,descriptive statistics .
+
+Step2 -Preprecessing :
+Outlier removal ,missing value treatment removing skewness kurtosis.
+
+
